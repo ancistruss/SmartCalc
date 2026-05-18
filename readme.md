@@ -4,7 +4,7 @@
 
 Посилання
 
-    GitHub Pages:
-    Звіт Google Docs: 
+GitHub Pages:
+Звіт Google Docs:
 
 Тема додатку: калькулятор (режим звичайний, для програміста)
