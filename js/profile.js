@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const raw = localStorage.getItem('sc_current_user');
+  document.querySelector('main').style.visibility = 'visible';
 
   if (!raw) {
     document.querySelector('main').innerHTML = `
