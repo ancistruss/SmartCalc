@@ -4,7 +4,7 @@
 
 Посилання
 
-GitHub Pages:
-Звіт Google Docs:
+GitHub Pages: https://ancistruss.github.io/SmartCalc
+Звіт Google Docs: https://docs.google.com/document/d/1NCHbakIzdpydi9VIuOfz9nX2OQq4kuMKDJadoMGBgCM/edit?usp=sharing
 
 Тема додатку: калькулятор (режим звичайний, для програміста)
